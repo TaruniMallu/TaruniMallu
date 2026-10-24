@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TaruniMallu
-- 👀 I’m interested in Software Development and Machine Learning
-- 🌱 I’m currently learning Generative AI
+- 👀 I’m interested in Software Development 
+- 🌱 I’m currently exploring Agentic AI
 - 💞️ I’m looking to collaborate on SDE/ML projects
 - 📫 How to reach me mallu.taruni@gmail.com
 - 😄 Pronouns: she/her
